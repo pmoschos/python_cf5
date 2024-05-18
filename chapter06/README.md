@@ -19,7 +19,7 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 
 <table>
   <tr>
-    <td>01. <a href="01_type_annotated_addition.py" title="This script defines a function my_add that performs addition on two numbers with type annotations to ensure the inputs are either integers or floats. .">Type Annotated Addition</a></td>
+	<td></td>
 	<td></td>
 	<td></td>
   </tr>
@@ -65,7 +65,7 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 To get started with Python Learning Scripts:
 No installation is required, as the script can be run directly from any Python-enabled environment:
 1. Ensure Python 3.x is installed on your machine.
-2. Clone the repository: `git clone https://github.com/pmoschos/python_cf5/tree/main/chapter04`
+2. Clone the repository: `git clone https://github.com/pmoschos/python_cf5`
 3. Navigate to the script of interest
 4. Open a terminal or command prompt.
 5. Refer to the comments within the script for detailed instructions
