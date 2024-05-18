@@ -1,4 +1,4 @@
-# Python Learning Scripts 🐍
+# 🐍 Intermediate Python: Data Structures, Functions, and Object-Oriented Programming
 
 ![Total Views](https://views.whatilearened.today/views/github/yourusername/python-educational-scripts.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/python-educational-scripts) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
