@@ -6,21 +6,33 @@ This Python script demonstrates simple variable assignments and print statements
 
 The script initializes four different types of variables and prints each one. Then it prints a separator line, followed by all variables in a single line. This is a great example for understanding basic data types and output formatting in Python.
 
-### Script Code
+### :computer: Script Code
 
 ```python
+# Define an integer variable with a value of 10
 num = 10
+
+# Define a floating-point variable for height in meters
 height = 1.85
+
+# Boolean variable to indicate whether it is raining or not
 is_raining = True
+
+# String variable containing a welcome message
 hello_message = "Hello Coding Factory"
 
+# Print individual variables to the console
 print(num)
 print(height)
 print(is_raining)
 print(hello_message)
 
+# Print a separator to distinguish different outputs
 print("--------------------")
+
+# Print all variables in one line separated by spaces
 print(num, height, is_raining, hello_message)
+
 ```
 
 ## Key Features 🌟
@@ -35,10 +47,10 @@ print(num, height, is_raining, hello_message)
 ## Installation and Setup 🚀
 No installation is required, as the script can be run directly from any Python-enabled environment:
 1. Ensure Python 3.x is installed on your machine.
-2. Download `basic_example.py` from this repository.
+2. Download `01_my_primitives.py` from this repository.
 3. Open a terminal or command prompt.
-4. Navigate to the directory containing `basic_example.py`.
-5. Run the script with: `python basic_example.py`.
+4. Navigate to the directory containing `01_my_primitives.py`.
+5. Run the script with: `python 01_my_primitives.py`.
 
 ## Usage Example 📋
 Here is what the output of the script looks like after execution:
