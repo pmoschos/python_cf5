@@ -15,7 +15,7 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 - Basic Algorithms 🔄
 - Mathematical Demonstrations 📏
 
-## 🐍 Python - Chapter 02
+## 🐍 Python - Chapter 03
 
 <table>
   <tr>
