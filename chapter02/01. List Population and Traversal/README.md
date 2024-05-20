@@ -55,10 +55,6 @@ No installation is required, as the script can be run directly from any Python-e
 
 Execute the script to see how various list operations are performed in the console. This will help you understand the practical applications of list manipulation in Python programming.
 
-## Detailed Analysis and Visualizations 📊
-
-For a more detailed analysis and visualizations, check out the [Jupyter Notebook](https://colab.research.google.com/drive/1dpbYkFedSHqkPAM5aJnQCcNgFu_Vty2Y).
-
 ## 📢 Stay Updated
 Be sure to ⭐ this repository to keep up with updates and new learning materials!
 
