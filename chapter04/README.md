@@ -1,21 +1,21 @@
-# Python Learning Scripts 🐍
+# 🐍 Advanced Python: Functions, Type Hints, and Recursive Algorithms
 
 ![Total Views](https://views.whatilearened.today/views/github/yourusername/python-educational-scripts.svg) ![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/python-educational-scripts) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview 🌟
-Welcome to the Python Learning Scripts repository, a comprehensive collection of Python scripts crafted specifically for educators and students. This repository serves as a resource for those aiming to master Python through hands-on, practical examples and challenges.
+Welcome to the Advanced Python Scripts repository, a comprehensive collection of Python scripts designed for educators and students. This repository serves as a resource for mastering advanced Python concepts through hands-on examples and challenges.
 
 ## About the Repository 📖
-Python Learning Scripts offers a practical approach to learning Python by focusing on real-world applications and coding exercises that enhance understanding and skill development.
+This collection focuses on practical applications of advanced Python concepts such as functions, type hints, recursion, and functional programming techniques.
 
 ## Repository Contents 📂
 ### Practical Applications 🛠️
-- Data Manipulation 🔢
-- User Interaction ⌨️
-- Basic Algorithms 🔄
-- Mathematical Demonstrations 📏
+- Function Definitions and Annotations 📝
+- Type Hints and Generics 🔠
+- Recursive Algorithms ♾️
+- Functional Programming with Lambdas and Higher-Order Functions 🚀
 
-## 🐍 Python - Chapter 02
+## 🐍 Python - Chapter 04
 
 <table>
   <tr>
