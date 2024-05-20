@@ -19,34 +19,34 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 
 <table>
   <tr>
-    <td>01. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/01_immutable_id_demo" title="Demonstrates the concept of immutable IDs in Python, emphasizing object identity and immutability.">Immutable ID Demo</a></td>
-    <td>02. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/02_modifiable_demo" title="Shows how to work with mutable objects, including common operations and implications of mutability.">Modifiable Objects Demo</a></td>
-    <td>03. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/03_rectangle_square_check" title="A script to check if a rectangle is a square, illustrating conditional logic and geometric properties.">Rectangle and Square Check</a></td>
+    <td>01. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/01.%20Immutable%20ID%20Demo" title="Demonstrates the concept of immutable IDs in Python, emphasizing object identity and immutability.">Immutable ID Demo</a></td>
+    <td>02. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/02.%20Modifiable%20Objects%20Demo" title="Shows how to work with mutable objects, including common operations and implications of mutability.">Modifiable Objects Demo</a></td>
+    <td>03. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/03.%20Rectangle%20and%20Square%20Check" title="A script to check if a rectangle is a square, illustrating conditional logic and geometric properties.">Rectangle and Square Check</a></td>
   </tr>
   <tr>
-    <td>04. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/04_list_comparison_demo" title="Covers techniques for comparing lists, including element-wise comparison and finding common elements.">List Comparison</a></td>
-    <td>05. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/05_ternary_operator_demo" title="Demonstrates the use of the ternary operator for concise conditional expressions.">Ternary Operator Demo</a></td>
-    <td>06. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/06_char_ascii_demo" title="Illustrates character to ASCII and ASCII to character conversions, fundamental for text processing.">Character to ASCII Conversion</a></td>
+    <td>04. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/04.%20List%20Comparison" title="Covers techniques for comparing lists, including element-wise comparison and finding common elements.">List Comparison</a></td>
+    <td>05. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/05.%20Ternary%20Operator%20Demo" title="Demonstrates the use of the ternary operator for concise conditional expressions.">Ternary Operator Demo</a></td>
+    <td>06. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/06.%20Character%20to%20ASCII%20Conversion" title="Illustrates character to ASCII and ASCII to character conversions, fundamental for text processing.">Character to ASCII Conversion</a></td>
   </tr>
   <tr>
-    <td>07. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/07_number_guessing_game" title="A fun number guessing game that incorporates user input, loops, and conditionals.">Number Guessing Game</a></td>
-    <td>08. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/08_armstrong_checker" title="Checks if a number is an Armstrong number, showcasing mathematical operations and loops.">Armstrong Number Checker</a></td>
-    <td>09. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/09_sum_and_product" title="Calculates the sum and product of a series of numbers, demonstrating basic arithmetic operations.">Sum and Product Calculator</a></td>
+    <td>07. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/07.%20Number%20Guessing%20Game" title="A fun number guessing game that incorporates user input, loops, and conditionals.">Number Guessing Game</a></td>
+    <td>08. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/08.%20Armstrong%20Number%20Checker" title="Checks if a number is an Armstrong number, showcasing mathematical operations and loops.">Armstrong Number Checker</a></td>
+    <td>09. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/09.%20Sum%20and%20Product%20Calculator" title="Calculates the sum and product of a series of numbers, demonstrating basic arithmetic operations.">Sum and Product Calculator</a></td>
   </tr>
   <tr>
-    <td>10. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/10_factorial_calculator" title="Computes the factorial of a number, highlighting recursion and iterative approaches.">Factorial Calculator</a></td>
-    <td>11. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/11_fibonacci_calculator" title="Generates Fibonacci numbers using iterative and recursive methods.">Fibonacci Calculator</a></td>
-    <td>12. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/12_fibonacci_improvement" title="Optimizes the Fibonacci sequence generation with memoization.">Fibonacci Improvement</a></td>
+    <td>10. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/10.%20Factorial%20Calculator" title="Computes the factorial of a number, highlighting recursion and iterative approaches.">Factorial Calculator</a></td>
+    <td>11. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/11.%20Fibonacci%20Calculator" title="Generates Fibonacci numbers using iterative and recursive methods.">Fibonacci Calculator</a></td>
+    <td>12. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/12.%20Fibonacci%20Improvement" title="Optimizes the Fibonacci sequence generation with memoization.">Fibonacci Improvement</a></td>
   </tr>
   <tr>
-    <td>13. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/13_name_spacing_demo.py" title="Formats names with proper spacing, demonstrating string manipulation techniques.">Name Spacing Demo</a></td>
-    <td>14. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/14_decrept_message.py" title="Decrypts a simple encoded message, introducing basic cryptography concepts.">Decrypt Message</a></td>
-    <td>15. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/15_break_app.py" title="An application to schedule breaks, demonstrating time management in code.">Break Scheduler App</a></td>
+    <td>13. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/13.%20Name%20Spacing%20Demo" title="Formats names with proper spacing, demonstrating string manipulation techniques.">Name Spacing Demo</a></td>
+    <td>14. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/14.%20Decrypt%20Message" title="Decrypts a simple encoded message, introducing basic cryptography concepts.">Decrypt Message</a></td>
+    <td>15. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/15.%20Break%20Scheduler%20App" title="An application to schedule breaks, demonstrating time management in code.">Break Scheduler App</a></td>
   </tr>
   <tr>
-    <td>16. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/16_http_error_handler" title="Handles HTTP errors using predefined error codes, crucial for web development.">HTTP Error Handler</a></td>
-    <td>17. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/17_http_error_handler_with_dict" title="Enhances HTTP error handling with dictionary-based lookups for efficiency.">HTTP Error Handler with Dictionary</a></td>
-    <td>18. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/18_password_generator" title="Generates secure passwords, combining randomness and user-defined criteria.">Password Generator</a></td>
+    <td>16. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/16.%20HTTP%20Error%20Handler" title="Handles HTTP errors using predefined error codes, crucial for web development.">HTTP Error Handler</a></td>
+    <td>17. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/17.%20HTTP%20Error%20Handler%20with%20Dictionary" title="Enhances HTTP error handling with dictionary-based lookups for efficiency.">HTTP Error Handler with Dictionary</a></td>
+    <td>18. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter03/18.%20Password%20Generator" title="Generates secure passwords, combining randomness and user-defined criteria.">Password Generator</a></td>
   </tr>
 </table>
 
