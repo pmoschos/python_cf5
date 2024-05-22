@@ -8,6 +8,8 @@ n = int(input("Give an int to calc facto: "))
 # The lambda function provided to reduce takes two arguments x and y, multiplying them together
 # Since range(1, n+1) generates numbers from 1 to n, this effectively calculates the product of all integers from 1 to n, which is the factorial
 
+# Example for reduce()
+# reduce(lambda x, y: x * y, range(1, 5 + 1))
 # First step: x = 1, y = 2 (Result: 1 * 2 = 2)
 # Second step: x = 2 (result of previous step), y = 3 (Result: 2 * 3 = 6)
 # Third step: x = 6 (result of previous step), y = 4 (Result: 6 * 4 = 24)
