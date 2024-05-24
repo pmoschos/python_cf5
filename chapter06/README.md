@@ -18,11 +18,19 @@ This collection focuses on practical applications of database operations such as
 
 <table>
   <tr>
-    <td>01. <a href="#create_dbpy" title="Create a database connection and a new database.">01. Create Database</a></td>
-    <td>02. <a href="#create_tablespy" title="Create tables in the MySQL database.">02. Create Tables</a></td>
-    <td>03. <a href="#insert_datapy" title="Insert data into the database tables.">03. Insert Data</a></td>
-    <td>04. <a href="#retrieve_datapy" title="Retrieve data from the database tables.">04. Update Data</a></td>
-	<td>05. <a href="#retrieve_datapy" title="Retrieve data from the database tables.">05. Retrieve Data</a></td>
+  	<td>01. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/01.%20Create%20Database" title="Create a database connection and a new database.">01. Create Database</a></td>
+  </tr>
+   <tr>
+  	<td>02. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/02.%20Create%20Tables" title="Create tables in the MySQL database.">02. Create Tables</a></td>
+  </tr>
+   <tr>
+  	<td>03. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/03.%20Insert%20Data" title="Insert data into the database tables.">03. Insert Data</a></td>
+  </tr>
+   <tr>
+  	<td>04. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/04%20Update%20Data" title="Update data into the database tables.">04. Update Data</a></td>
+  </tr>
+   <tr>
+  	<td>05. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06/05.%20Retrieve%20Data" title="Retrieve data from the database tables.">05. Retrieve Data</a></td>
   </tr>
 </table>
 
