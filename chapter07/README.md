@@ -41,6 +41,11 @@ Python Educational Scripts offers a practical approach to learning Python by foc
     <td>Unit tests for the Point class</td>
     <td>`TestApp` with multiple test methods</td>
   </tr>
+  <tr>
+    <td>main.py</td>
+    <td>Runs all unit tests</td>
+    <td>`main()`</td>
+  </tr>
 </table>
 
 ### Detailed Script Explanations 📝
@@ -56,6 +61,10 @@ Python Educational Scripts offers a practical approach to learning Python by foc
 #### `tests.py` ✅
 - Unit tests for the `Point` class to ensure its correctness.
   - **Explanation**: This script uses the `unittest` framework to define a test suite for the `Point` class. It includes tests for all major functionalities like addition, subtraction, multiplication, and comparison operations. These tests help ensure that the `Point` class behaves as expected.
+
+#### `main.py` 🧪
+Runs all unit tests.
+- **Explanation**: This script defines a `main` function that loads and runs all the unit tests defined in `tests.py` using the `unittest` framework. It provides a convenient way to execute the test suite and ensure that all the functionalities are working as expected.
 
 
 ### Educational Value 🎓
