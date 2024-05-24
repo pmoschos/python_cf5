@@ -92,18 +92,21 @@ if __name__ == "__main__":
 ## Usage Example 📋
 Execute the script to see how to connect to a MySQL server and create a new database. The script will demonstrate establishing a connection and executing a SQL query to create a database.
 
-📢 Stay Updated
-Be sure to ⭐ this repository to keep up with updates and new learning materials!
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
 ## 📄 License
-🔐 This project is protected under the MIT License.
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
 ## Contact 📧
-Panagiotis Moschos - pan.moschos86@gmail.com
+Your Name - pan.moschos86@gmail.com
 
-🔗 Note: This is a Python script and requires a Python interpreter to run.
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
-<h1 align="center">Happy Coding 👨‍💻</h1>
+---
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
 <p align="center">
-  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+  Made with ❤️ by Your Name (https://github.com/pmoschos)
 </p>
