@@ -41,16 +41,6 @@ Python Educational Scripts offers a practical approach to learning Python by foc
     <td>Unit tests for the Point class</td>
     <td>`TestApp` with multiple test methods</td>
   </tr>
-  <tr>
-    <td>insert_data.py</td>
-    <td>Inserts data into a MySQL database</td>
-    <td>`create_connection`, `insert_teacher`, `main()`</td>
-  </tr>
-  <tr>
-    <td>update_data.py</td>
-    <td>Updates data in a MySQL database</td>
-    <td>`create_connection`, `update_teacher`, `main()`</td>
-  </tr>
 </table>
 
 ### Detailed Script Explanations 📝
@@ -67,13 +57,6 @@ Python Educational Scripts offers a practical approach to learning Python by foc
 - Unit tests for the `Point` class to ensure its correctness.
   - **Explanation**: This script uses the `unittest` framework to define a test suite for the `Point` class. It includes tests for all major functionalities like addition, subtraction, multiplication, and comparison operations. These tests help ensure that the `Point` class behaves as expected.
 
-#### `insert_data.py` 💾
-- Script to insert data into a MySQL database.
-  - **Explanation**: This script provides functions to connect to a MySQL database and insert data into a `teachers` table. It demonstrates basic database operations like establishing a connection, executing an insert statement, and handling exceptions.
-
-#### `update_data.py` ✏️
-- Script to update data in a MySQL database.
-  - **Explanation**: Similar to `insert_data.py`, this script focuses on updating existing records in the `teachers` table of a MySQL database. It includes functions to create a database connection and update a teacher's information, showcasing essential CRUD operations.
 
 ### Educational Value 🎓
 - Code snippets and scripts for direct classroom use
