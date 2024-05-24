@@ -2,10 +2,26 @@ from typing import List, Dict, Tuple, Callable, TypeVar, Generic, Union, Optiona
 
 # Basic types
 def process(value: Any) -> None:
+    """
+    Processes and prints the given value.
+
+    Parameters:
+    value (Any): The value to be processed.
+    """
     print(f"Processing value: {value}")
 
 # Union and Optional
 def fetch_data(key: Union[int, str], default: Optional[str] = None) -> Optional[str]:
+    """
+    Fetches data based on the provided key.
+
+    Parameters:
+    key (Union[int, str]): The key to fetch data for.
+    default (Optional[str]): The default value to return if no data is found.
+
+    Returns:
+    Optional[str]: The fetched data or the default value.
+    """
     if isinstance(key, int):
         return f"Data for int key: {key}"
     elif isinstance(key, str):
@@ -14,23 +30,61 @@ def fetch_data(key: Union[int, str], default: Optional[str] = None) -> Optional[
 
 # Generic Collections
 def handle_list(items: List[int]) -> None:
+    """
+    Handles a list of integers.
+
+    Parameters:
+    items (List[int]): The list of integers to handle.
+    """
     print(f"Handling list of integers: {items}")
 
 def handle_dict(mapping: Dict[str, int]) -> None:
+    """
+    Handles a dictionary with string keys and integer values.
+
+    Parameters:
+    mapping (Dict[str, int]): The dictionary to handle.
+    """
     print(f"Handling dictionary: {mapping}")
 
 # Tuple
 def return_tuple() -> Tuple[int, str, float]:
+    """
+    Returns a tuple containing an integer, a string, and a float.
+
+    Returns:
+    Tuple[int, str, float]: A tuple with an integer, a string, and a float.
+    """
     return (1, "hello", 3.14)
 
 # Callable
 def apply_function(func: Callable[[int, int], int], x: int, y: int) -> int:
+    """
+    Applies a function to two integers.
+
+    Parameters:
+    func (Callable[[int, int], int]): The function to apply.
+    x (int): The first integer argument.
+    y (int): The second integer argument.
+
+    Returns:
+    int: The result of applying the function to the arguments.
+    """
     return func(x, y)
 
 # Generics and TypeVar
 T = TypeVar('T')
 
 def get_first_element(elements: List[T]) -> T:
+    """
+    Returns the first element of a list.
+
+    Parameters:
+    elements (List[T]): The list of elements.
+
+    Returns:
+    T: The first element of the list.
+    """
     return elements[0]
 
 # Generic class
@@ -39,9 +93,18 @@ class Container(Generic[T]):
         self.value = value
 
     def get_value(self) -> T:
+        """
+        Returns the value stored in the container.
+
+        Returns:
+        T: The value stored in the container.
+        """
         return self.value
 
 def main():
+    """
+    Main function to demonstrate the usage of various type hints and generic programming in Python.
+    """
     # Basic types
     process("Hello, World!")
     process(123)
