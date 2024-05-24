@@ -53,6 +53,8 @@ Python Educational Scripts offers a practical approach to learning Python by foc
   </tr>
 </table>
 
+### Detailed Script Explanations 📝
+
 #### `point.py` 📐
 - Defines a `Point` class with various operations like addition, subtraction, and multiplication, along with comparison methods.
   - **Explanation**: This script introduces a `Point` class to represent points in a 2D space. The class includes methods for adding, subtracting, and multiplying points or numbers, and comparing points for equality or inequality. The use of magic methods like `__add__`, `__sub__`, and `__mul__` allows for intuitive arithmetic operations with point objects.
