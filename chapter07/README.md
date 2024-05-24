@@ -46,6 +46,11 @@ Python Educational Scripts offers a practical approach to learning Python by foc
     <td>Runs all unit tests</td>
     <td>`main()`</td>
   </tr>
+  <tr>
+    <td>config.py</td>
+    <td>Configuration file for setting up paths</td>
+    <td>APP_PATH</td>
+  </tr>
 </table>
 
 ### Detailed Script Explanations 📝
@@ -65,6 +70,10 @@ Python Educational Scripts offers a practical approach to learning Python by foc
 #### `main.py` 🧪
 Runs all unit tests.
 - **Explanation**: This script defines a `main` function that loads and runs all the unit tests defined in `tests.py` using the `unittest` framework. It provides a convenient way to execute the test suite and ensure that all the functionalities are working as expected.
+
+#### `config.py` ⚙️
+Configuration file for setting up paths.
+- **Explanation**: This script contains the `APP_PATH` variable, which should be set to the absolute path of the project directory. It helps in managing the file paths required by other scripts for imports and configurations.
 
 
 ### Educational Value 🎓
