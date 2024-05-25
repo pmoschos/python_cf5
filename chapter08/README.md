@@ -68,7 +68,7 @@ This project demonstrates the process of building, training, and using a Linear 
    ```bash
    python housing.py
    ```
-2. ** Running `load_lr_model.py`**:
+2. **Running `load_lr_model.py`**:
 - Update the `model_path` and `new_data` variables as needed.
 - Run the script to load the saved model and make predictions on new data.
    ```bash
