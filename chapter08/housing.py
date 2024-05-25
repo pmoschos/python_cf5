@@ -57,11 +57,14 @@ print(coeff_df)
 predictions = pipeline.predict(X_test)
 
 # Plotting and saving the scatter plot for predictions
-plt.scatter(y_test, predictions, color='red', label="Predictions")
-plt.plot(y_test, y_test, color='blue', label='Actual Values')
+plt.figure(figsize=(10, 6))  # Set the plot size
+plt.scatter(y_test, predictions, color='red', label="Predicted Values")
+plt.plot(y_test, y_test, color='blue', label='Actual Values')  # This line represents the perfect prediction line
 plt.xlabel('True Values')
 plt.ylabel('Predicted Values')
+plt.title('True Values vs Predicted Values')
 plt.legend()
+plt.grid(True)
 plt.savefig('predictions_vs_actuals.png')  # Saving the plot
 plt.show()
 
