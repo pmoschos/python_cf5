@@ -75,6 +75,9 @@ This project demonstrates the process of building, training, and using a Linear 
    python load_lr_model.py
    ```
 
+## 📸 Ploting the results
+![image](https://github.com/pmoschos/python_cf5/assets/133533759/76e38f0b-4fcb-464a-bde3-83c624a06f11)
+
 ## 📢 Stay Updated
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
