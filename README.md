@@ -24,6 +24,9 @@ Python Learning Scripts offers a practical approach to learning Python by focusi
 05. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter05" title="Chapter 05">Chapter 05 - Advanced Function Techniques and Applications</a></td>
 06. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter06" title="Chapter 06">Chapter 06 - Database Operations with MySQL</a></td>
 07. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter07" title="Chapter 07">Chapter 07 - Practical Examples Testing for Mastering Python</a></td>
+08. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter08" title="Chapter 07">Chapter 08 - Housing Price Prediction with Multi Linear Regression</a></td>
+09. <a href="https://github.com/pmoschos/python_cf5/tree/main/chapter09" title="Chapter 07">Chapter 09 - ASCII Art Generator</a></td>
+
 
 ### Educational Value 🎓
 - Code snippets and scripts for direct classroom use
