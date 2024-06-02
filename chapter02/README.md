@@ -82,6 +82,7 @@ Be sure to ⭐ this repository to stay updated with new examples and enhancement
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
+
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
